@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I have been working as a software developer for over 25 years, I recently worked at an amazing company called Teamwork.com, you should check them out.
 - 🌱 I’m currently learning and getting reacquainted with .NET Core 7 Web Api's and all things Azure ...
-- 🎸 I play guitar, I used record music also.
+- 🎸 I play guitar, I used to record music also.
 - ⚡ I enjoy working with Javascript, Vue, and C#
 
 ### Find me on 
