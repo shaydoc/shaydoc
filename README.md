@@ -30,7 +30,7 @@ Much of the past 5 years or so have been frontend focused:
 * **Frameworks** - Vue.js 2 & 3
 * **Build Tools** - Vite, Webpack
 * **Package Managers** - NPM, PNPM (its awesome)
-* **CSS** - Tailwind, SAAS
+* **CSS** - Tailwind, SCSS
 * **CI/CD** - Github Actions
 * **Cloud** - S3 Static websites and Cloudfront CDNs
 
