@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I have been working as a software developer for over 25 years, I recently worked at an amazing company called [Teamwork.com](https://teamwork.com), you should check them out. I currently work for an equally great company in [Stiona Software](https://www.stiona.com)
-- 🌱 I’m currently learning and getting reacquainted with .NET Core 7 Web Api's and all things Azure ...
+- 🌱 I’m currently learning and getting reacquainted with .NET Core 8 Web Api's and all things Azure ...
 - 🌱 I am finding Azure Static Web Apps with Azure Functions a great combo
 - 🌱 I am also very interested in Remix.run, it has some cool concepts
 - 🎸 I play guitar, I used to record music also.
